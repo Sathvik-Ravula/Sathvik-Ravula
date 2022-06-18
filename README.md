@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sathvik-Ravula
-- 👀 I’m interested in Data Structures
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Integrated MSc. in DataScience and Computing
 - 📫 How to reach me : saidevasathvik@gmail.com (mail)
 
