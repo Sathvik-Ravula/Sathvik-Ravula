@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sathvik-Ravula
+- 👋 Hi, I’m Sathvik
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently Pursuing MSc. in DataScience and Computing
 - 📫 How to reach me : saidevasathvik@gmail.com (mail)
